@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-vinaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhumireddy-vinaya-pratheeka-45173a231/)](https://www.linkedin.com/in/bhumireddy-vinaya-pratheeka-45173a231/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Vinaya Pratheeka-yellow)](https://stackoverflow.com/users/22347776/vinaya-pratheeka)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-vinaya-yellow)](https://stackoverflow.com/users/22347776/vinaya-pratheeka)
 
 
 I'm
