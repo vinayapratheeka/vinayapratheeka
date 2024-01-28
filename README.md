@@ -6,7 +6,7 @@
 
 I'm
 Web Developer
-I am currently pursuing final year of B.Tech(CSE).The crossover between design and programming has always been of interest to me. As I am interested in web development,I joined edureka. I think I am in a right place. 
+I am currently pursuing final year of B.Tech(CSE).The crossover between design and programming has always been of interest to me.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/vinayapratheeka/count.svg)
